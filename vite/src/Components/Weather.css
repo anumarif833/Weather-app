@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+.app{
+    min-height: 100vh;
+    display: grid;
+    bottom: #e2d4ff;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  
+  }
+  .app{
+    min-height: 100vh;
+    display: grid;
+    bottom: #b493f5;
+  }
+  div{
+    background-color: aqua;
+}
+.card{
+    border: 2px solid red;
+    height: auto;
+}
